@@ -1,13 +1,12 @@
 {
     "thumbnail": {
-        "url": "https://velkog.com/assets/profile.jpg"
+        "url": "https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg"
     },
     "fields": [{
-        "inline": true,
-        "name": "<:velkogPoggers:710012265394470982> **Join the velkord Server!** <:velkogPoggers:710012265394470982>",
-        "value": "[**Check out the velkord community on Discord.**](https://discord.com/invite/sEADDUj)"
+        "name": "<:velkogPoggers:710012265394470982> **xxxxxxxxxxxrgserrgser!** <:velkogPoggers:710012265394470982>",
+        "value": "[**????????????????? does this work**](https://google.com/)"
     }],
     "color": 15749203,
     "type": "rich",
-    "description":"**YOU'VE BEEN INVITED TO JOIN A SERVER**"
+    "description":"**DOES THIS WORK?**"
  }
