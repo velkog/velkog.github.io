@@ -1,0 +1,13 @@
+{
+    "thumbnail": {
+        "url": "https://velkog.com/assets/profile.jpg"
+    },
+    "fields": [{
+        "inline": true,
+        "name": "<:velkogPoggers:710012265394470982> **Join the velkord Server!** <:velkogPoggers:710012265394470982>",
+        "value": "[**Check out the velkord community on Discord.**](https://discord.com/invite/sEADDUj)"
+    }],
+    "color": 15749203,
+    "type": "rich",
+    "description":"**YOU'VE BEEN INVITED TO JOIN A SERVER**"
+ }
