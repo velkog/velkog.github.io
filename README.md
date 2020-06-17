@@ -10,5 +10,5 @@ I have it all, but I don't promise to use them. Sorted in order of usage:
 > * [Discord](https://discord.gg/sEADDUj)
 > * [Twitch](https://twitch.tv/velkog)
 > * [Twitter](https://twitter.com/intent/user?screen_name=thevelkog)
-> * [Youtube]((https://www.youtube.com/channel/UCIm_e0L7pd8awBhskYBy1uA?sub_confirmation=1))
+> * [Youtube](https://www.youtube.com/channel/UCIm_e0L7pd8awBhskYBy1uA?sub_confirmation=1)
 > * [Instagram](http://instagram.com/thevelkog)
