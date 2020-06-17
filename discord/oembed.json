@@ -1,12 +1,9 @@
 {
-    "thumbnail": {
-        "url": "https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg"
-    },
-    "fields": [{
-        "name": "<:velkogPoggers:710012265394470982> **xxxxxxxxxxxrgserrgser!** <:velkogPoggers:710012265394470982>",
-        "value": "[**????????????????? does this work**](https://google.com/)"
-    }],
-    "color": 15749203,
-    "type": "rich",
-    "description":"**DOES THIS WORK?**"
- }
+   "title": "Title Field",
+
+   "author_name": "Author Name Field",
+   "author_url": "https://discordapp.com",
+
+   "provider_name": "Provider Name Field",
+   "provider_url": "https://discordapp.com"
+}
