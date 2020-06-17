@@ -1,35 +1,14 @@
 ## Welcome to the VELKOG Homepage
 
-![GitHub Logo](/assets/profile.jpg)
+### [Check Out My Twitch](https://twitch.tv/velkog)
 
-### Markdown
+I'm primarily a twitch streamer, speeedrunning [SpongeBob SquarePants: Battle for Bikini Bottom](https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social Media
+I have it all, but I don't promise to use them. Sorted in order of usage:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/velkog/velkog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> * [Discord](https://discord.gg/sEADDUj)
+> * [Twitch](https://twitch.tv/velkog)
+> * [Twitter](https://twitter.com/intent/user?screen_name=thevelkog)
+> * [Youtube]((https://www.youtube.com/channel/UCIm_e0L7pd8awBhskYBy1uA?sub_confirmation=1))
+> * [Instagram](http://instagram.com/thevelkog)
