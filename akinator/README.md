@@ -1,9 +1,13 @@
 # Akinator Leaderboards
 
 Current leader-board for Akinator speedruns.
+
 ## Categories
+
 * [Any%](#any%)
+
 ___
+
 ### Any%
 
 
