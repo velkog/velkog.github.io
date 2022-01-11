@@ -5,7 +5,7 @@ Current leader-board for Akinator speedruns.
 ## Categories
 
 * [Any%](#any%)
-
+* [Peter Griffin%](#Peter-Griffin%)
 ___
 
 ### Any%
@@ -18,5 +18,14 @@ ___
 
 <!--- OLD RUNS --->
 <!--- |1.   | Slav Trooper           | 4s 567ms  | Jan 11, 2022 | [YouTube](https://www.youtube.com/watch?v=-xkgSA7XZ-w "Mod Message: Time starts at 0.467 and ends at 5.033 at 30 fps to get a final time of 0h 0m 4s 567ms. Retimed using yt-frame-timer") | --->
+
+______
+
+### Peter-Griffin%
+
+
+| Rank|User                    | Time      | Date         | Link |
+|-----|------------------------|-----------|--------------|------|
+|1.   | Slav Trooper           | 31s 033ms  | Jan 11, 2022 | [YouTube](https://www.youtube.com/watch?v=jJMoAziqLeE "Mod Message: Time starts at 1.167 and ends at 31.200 at 30 fps to get a final time of 0h 0m 30s 033ms. Retimed using yt-frame-timer") |
 
 ___
