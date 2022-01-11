@@ -6,6 +6,7 @@ Current leader-board for Akinator speedruns.
 
 * [Any%](#any%)
 * [Peter Griffin%](#Peter-Griffin%)
+
 ___
 
 ### Any%
