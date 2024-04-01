@@ -15,19 +15,23 @@
     <meta property="og:image:type" content="image/jpeg">
 
     <style>
-        body, html {
+body, html {
             height: 100%;
             margin: 0;
             display: flex;
             align-items: center;
             justify-content: center;
-            background-color: #000;
         }
         img {
-            display: block;
-            max-width: 90%;
-            max-height: 90%;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 90%;
+            height: 90%;
             margin: auto;
+            object-fit: contain;
         }
     </style>
 </head>
