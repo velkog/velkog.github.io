@@ -35,10 +35,15 @@
 </head>
 <body>
     <img src="https://cdn.frankerfacez.com/emoticon/543717/4" alt="Centered Image">
+    
     <div id="player"></div>
-
     <script>
-        // Load the IFrame Player API code asynchronously.
+        /* 
+         * For some reason embed video's will auto-play on Firefox, but not on chrome. 
+         * But youtube redirects will on chrome but not firefox. So I load the iFrame 
+         * player API in order to detect if the iframe has auto-played, and if it 
+         * doesn't, then we'll try via a youtube redirect.
+         */
         var tag = document.createElement('script');
         tag.src = "https://www.youtube.com/iframe_api";
         var firstScriptTag = document.getElementsByTagName('script')[0];
@@ -48,12 +53,10 @@
         var player;
         function onYouTubeIframeAPIReady() {
             player = new YT.Player('player', {
-                height: '360',
-                width: '640',
                 videoId: '9FLRHejWAo8',
                 playerVars: {
                     'autoplay': 1,
-                    'controls': 0,
+                    'controls': 1,
                     'mute': 0
                 },
                 events: {
@@ -62,8 +65,7 @@
                 }
             });
         }
-
-        // The API will call this function when the video player is ready.
+        
         function onPlayerReady(event) {
             event.target.playVideo();
         }
@@ -71,17 +73,12 @@
         // The API calls this function when the player's state changes.
         function onPlayerStateChange(event) {
             if (event.data == YT.PlayerState.PLAYING) {
-                console.log('Video is playing');
             } else if (event.data == YT.PlayerState.PAUSED) {
-                console.log('Video is paused');
             } else if (event.data == YT.PlayerState.CUED) {
-                console.log('Video is cued');
             } else if (event.data == YT.PlayerState.BUFFERING) {
-                console.log('Video is buffering');
             } else if (event.data == YT.PlayerState.ENDED) {
-                console.log('Video ended');
             } else if (event.data == YT.PlayerState.UNSTARTED) {
-                console.log('Video is not started');
+                window.location.href = "https://www.youtube.com/watch?v=9FLRHejWAo8?autoplay=1&mute=0";
             }
         }
     </script>
