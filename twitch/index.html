@@ -78,7 +78,9 @@
             } else if (event.data == YT.PlayerState.BUFFERING) {
             } else if (event.data == YT.PlayerState.ENDED) {
             } else if (event.data == YT.PlayerState.UNSTARTED) {
-                window.location.href = "https://www.youtube.com/watch?v=9FLRHejWAo8?autoplay=1&mute=0";
+                sleep(500).then(() => { 
+                    window.location.href = "https://www.youtube.com/watch?v=9FLRHejWAo8?autoplay=1&mute=0";
+                });
             }
         }
     </script>
