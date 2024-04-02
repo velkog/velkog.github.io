@@ -73,12 +73,19 @@
         // The API calls this function when the player's state changes.
         function onPlayerStateChange(event) {
             if (event.data == YT.PlayerState.PLAYING) {
+                console.log("onPlayerStateChange: Playing");
             } else if (event.data == YT.PlayerState.PAUSED) {
+                console.log("onPlayerStateChange: Paused");
             } else if (event.data == YT.PlayerState.CUED) {
+                console.log("onPlayerStateChange: Cued");
             } else if (event.data == YT.PlayerState.BUFFERING) {
+                console.log("onPlayerStateChange: Buffering");
             } else if (event.data == YT.PlayerState.ENDED) {
+                console.log("onPlayerStateChange: Ended");
             } else if (event.data == YT.PlayerState.UNSTARTED) {
+                console.log("onPlayerStateChange: Unstarted");
                 setTimeout(function() {
+                    console.log("onPlayerStateChange: Unstarted, timeout finished.");
                     window.location.href = "https://www.youtube.com/watch?v=9FLRHejWAo8?autoplay=1&mute=0";
                 }, 250);
             }
